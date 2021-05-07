@@ -14,7 +14,8 @@ Podemos platicar por:
 - **Git:** Software de control de versiones.
 #####
 
-###Modelos de servicio en la nube
+### Modelos de servicio en la nube
+#####
 <img src="https://nanobytes.es/web/image/55083/Comparativa%20iaas%20paas%20saas.png?access_token=760263c2-d615-4e27-887f-a463ed1366d0" width="350" alt="Clasificación servicios en la nube"
 border="10">
 
@@ -28,7 +29,7 @@ Es un entorno de desarrollo e implementación completo en la nube, con recursos 
 Es un modelo de prestación de software basado en la nube, en el cual el proveedor de nube desarrolla y mantiene un software de aplicaciones de nube, proporciona actualizaciones de software automáticas y hace que el software sea accesible para los clientes a través de internet mediante el pago por uso.
 #####
 
-###Tipos de nubes
+### Tipos de nubes
 
 <img src="http://1.bp.blogspot.com/-y0MbcfKHyf8/UNg-PSj1qLI/AAAAAAAAAMM/zVNBkTZi_do/s1600/Nube_tipos_.png" width="350" alt="Clasificación servicios en la nube"
 border="10">
