@@ -7,6 +7,8 @@ Podemos platicar por:
 <a href="https://www.instagram.com/danybme/" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" width="50"></a>
 <a href="https://twitter.com/home?lang=es" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png"width="50"></a>
 
+
+
 #### Conceptos Básicos
 
 - **API:** Por sus siglas significa "Interfaz de programación de aplicaciones".
@@ -64,9 +66,9 @@ Git log: Muestra la lista de commit del mas reciente al más antigüo
 
 - **Beneficios de utilizar GitHub** 
 
--Seguimiento de errores.
--Búsqueda rápida.
--Cuenta con una potente comunidad de desarrolladores en todo el mundo.
--Permite descargar como archivo el código fuente.
--Posibilita la importación en Git, SVN o TFS.
--Puedes personalizar cualquier servicio host en la nube.
+- Seguimiento de errores.
+- Búsqueda rápida.
+- Cuenta con una potente comunidad de desarrolladores en todo el mundo.
+- Permite descargar como archivo el código fuente.
+- Posibilita la importación en Git, SVN o TFS.
+- Puedes personalizar cualquier servicio host en la nube.
