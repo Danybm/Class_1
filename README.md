@@ -55,16 +55,16 @@ Es un programa de computadoras utilizado para el control de versiones y su prop�
 Es una plataforma utilizada para montar proyectos en la nube (individual o de forma colaborativa) esto con ayuda de del sistema de control de versiones Git, Además cuenta con una herramienta muy útil que es GitHub Pages donde podemos publicar nuestros proyectos estáticos (HTML, CSS y JS) gratis.
 
 
-- **Comandos basicos para programar** 
-Git version: Conocer la versión de git instalada.
-Git help: Ayuda sobre los comandos
-Git init: Iniciar un nuevo repositorio o crear la carpeta oculta .git
-Git status: Ver que archivos no han sido registrados
-Git add . : Agregar todos los archivos para que esté pendiente de los cambios
-Git commit -m “Ejemplo_1”:Crear commit (fotografía del proyecto en ese momento)
-Git log: Muestra la lista de commit del mas reciente al más antigüo
+###Comandos basicos para programar 
+- Git version: Conocer la versión de git instalada.
+- Git help: Ayuda sobre los comandos
+- Git init: Iniciar un nuevo repositorio o crear la carpeta oculta .git
+- Git status: Ver que archivos no han sido registrados
+- Git add . : Agregar todos los archivos para que esté pendiente de los cambios
+- Git commit -m “Ejemplo_1”:Crear commit (fotografía del proyecto en ese momento)
+- Git log: Muestra la lista de commit del mas reciente al más antigüo
 
-- **Beneficios de utilizar GitHub** 
+###Beneficios de utilizar GitHub
 
 - Seguimiento de errores.
 - Búsqueda rápida.
