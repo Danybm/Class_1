@@ -77,3 +77,4 @@ Es una plataforma utilizada para montar proyectos en la nube (individual o de fo
 - Permite descargar como archivo el código fuente.
 - Posibilita la importación en Git, SVN o TFS.
 - Puedes personalizar cualquier servicio host en la nube.
+ - Mejora el trabajo en equipo.
